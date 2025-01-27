@@ -1,4 +1,9 @@
 # ЛучшеВместе
+  ### Посмотреть проект:
+- Ссылка на деплой: https://better-together.tw1.ru/
+- Ссылка на репозиторий: https://github.com/volunteers-for-city-projects/volunteers-frontend/tree/develop
+- Ссылка на презентацию проекта: https://docs.google.com/presentation/d/1Tyokj3HibJ0xgj26lkXWfE9tMP8ALU9aznpSjV4e9fE/mobilepresent?slide=id.g295eccc9bc9_0_170
+  
 ### Разработка в кросс-функциональной команде. 
 #### Cтек: React.js, JavaScript, SCSS, Storybook
 - Взаимодействие с Project-Manager, Backend, QA, UI/UX.
@@ -15,7 +20,4 @@
 - Просмотр, добавление и изменение проекта
 - Фильтр по проектам в зависимости от статуса проекта, добавление и удаление из избранного
 - Одобрение и отклонение заявок на участие в проекте, добавление проектов, подписка на проекты.
-  ### Посмотреть проект:
-- Ссылка на деплой: https://better-together.tw1.ru/
-- Ссылка на репозиторий: https://github.com/volunteers-for-city-projects/volunteers-frontend/tree/develop
-- Ссылка на презентацию проекта: https://docs.google.com/presentation/d/1Tyokj3HibJ0xgj26lkXWfE9tMP8ALU9aznpSjV4e9fE/mobilepresent?slide=id.g295eccc9bc9_0_170
+
